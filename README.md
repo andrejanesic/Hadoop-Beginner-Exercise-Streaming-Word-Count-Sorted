@@ -1,6 +1,6 @@
 # Hadoop Beginner Exercise: Streaming Word Count (Sorted)
 
-Hadoop beginner exercise - using the Streaming API to determine the frequency of words in Wikipedia articles, with results sorted by frequency. Uses two sequential jobs to count and sort the words.
+Hadoop beginner exercise - using the Streaming API to determine the frequency of words in Wikipedia articles, with results sorted by frequency. Uses two sequential jobs to count and sort the words, resulting in one output file.
 
 ## Running
 
